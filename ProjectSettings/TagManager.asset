@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sushi1
+  - Sushi2
+  - Sushi3
+  - Sushi4
+  - Sushi5
+  - Sushi6
+  - Bomb
+  - Bomb_kill
+  - Candy1
+  - Candy2
+  - Candy3
+  - Candy4
+  - Candy5
+  - Candy6
+  - Sweets1
+  - Sweets2
+  - Sweets3
+  - Sweets4
+  - Sweets5
+  - Sweets6
+  - Fast_Food1
+  - Fast_Food2
+  - Fast_Food3
+  - Fast_Food4
+  - Fast_Food5
+  - Fast_Food6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2080529509
+    locked: 0
+  - name: 2
+    uniqueID: 3857530421
+    locked: 0
